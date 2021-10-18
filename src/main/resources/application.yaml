@@ -1,0 +1,2 @@
+jokes:
+  apiEndpoint: https://api.chucknorris.io/jokes/random
